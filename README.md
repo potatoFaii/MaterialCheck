@@ -1,12 +1,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# CheckMaterial Tool for Autodesk Maya
+# MaterialCheck Tool for Autodesk Maya
 
 ---
 
 ## Overview
 
-**CheckMaterial** is a lightweight utility tool for Autodesk Maya designed to help production teams validate and manage material naming between a source file and the latest working file.
+**MaterialCheck** is a lightweight utility tool for Autodesk Maya designed to help production teams validate and manage material naming between a source file and the latest working file.
 
 This tool is especially useful for maintaining consistency during asset development, lookdev checks, and scene assembly workflows where material naming accuracy is important for downstream tasks.
 
