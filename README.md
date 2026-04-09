@@ -66,7 +66,7 @@ This allows users to:
 ## Installation
 
 1. Open **Autodesk Maya**
-2. Drag and drop `CheckMaterial_Install.mel` into the Maya viewport
+2. Drag and drop `MaterialCheck_Install.mel` into the Maya viewport
 3. A shelf icon will be created automatically
 4. Click the icon to launch the tool
 
