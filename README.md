@@ -7,6 +7,8 @@
 
 ## Overview
 
+<img width="420" height="678" alt="image" src="https://github.com/user-attachments/assets/55014b42-d95f-4de1-b452-cd3eedc1b92b" />
+
 **MaterialCheck** is a lightweight utility tool for Autodesk Maya designed to help production teams validate and manage material naming between a source file and the latest working file.
 
 This tool is especially useful for maintaining consistency during asset development, lookdev checks, and scene assembly workflows where material naming accuracy is important for downstream tasks.
